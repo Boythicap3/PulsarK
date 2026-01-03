@@ -1,4 +1,4 @@
-# Pulsar
+# Quasar
 
 ![GitHub Actions Build Status](https://img.shields.io/github/actions/workflow/status/Quasar-Continuation/PulsarK/dotnet.yml)
 [![Downloads](https://img.shields.io/github/downloads/Quasar-Continuation/PulsarK/total.svg)](https://github.com/Quasar-Continuation/PulsarK/releases)
